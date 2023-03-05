@@ -1,6 +1,13 @@
-django => 4.1
-# https://docs.djangoproject.com/en/4.1/releases/4.1/#django-4.1-stable
-feedparser => 6.0.10
+django
+feedparser 
 newscatcherapi
 lxml
 google-api-python-client
+requests
+json
+re
+bs4
+pandas
+newspaper3k
+random
+googleapiclient
